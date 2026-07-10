@@ -116,8 +116,6 @@ dns:
     - +.apt-agent.net
   enhanced-mode: fake-ip
 proxies:
-  - {name: "Traffic: 29.58 GB | 150 GB", server: 79d52gz8-a3k5.apt-agent.net, port: 10011, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9a36343a27.m.ctrip.com}, udp: true}
-  - {name: "Expire: 2026-07-15", server: 79d52gz8-a3k5.apt-agent.net, port: 10011, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9a36343a27.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 香港实验性 IEPL 专线 1, server: 79d52gz8-a3k5.apt-agent.net, port: 10011, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9a36343a27.m.ctrip.com}, udp: true}
   - {name: 🇯🇵 日本实验性 IEPL 专线 1, server: 37f36sh0-2fd9.apt-agent.net, port: 10021, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9a36343a27.m.ctrip.com}, udp: true}
   - {name: 🇸🇬 新加坡实验性 IEPL 专线 1, server: 79d52gz8-a3k5.apt-agent.net, port: 10031, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9a36343a27.m.ctrip.com}, udp: true}
@@ -215,8 +213,6 @@ proxy-groups:
       - SG
       - TW
       - US
-      - "Traffic: 29.58 GB | 150 GB"
-      - "Expire: 2026-07-15"
       - 🇭🇰 香港实验性 IEPL 专线 1
       - 🇯🇵 日本实验性 IEPL 专线 1
       - 🇸🇬 新加坡实验性 IEPL 专线 1
